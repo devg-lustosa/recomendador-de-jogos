@@ -1,4 +1,4 @@
-#Recomendador de Jogos
+# Recomendador de Jogos
 O *Recomendador de Jogos* é um sistema desenvolvido para ajudar os usuários a encontrarem jogos que se adequem melhor aos seus gostos e preferências. O sistema leva em consideração quatro variáveis principais:
 
 *Gênero*: Ação, Aventura, FPS, Estratégia, RPG, Esporte
